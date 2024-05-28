@@ -1,5 +1,4 @@
 
-
 =======
 # Movie Booking System - Team Agile Wizards
 
@@ -95,4 +94,5 @@ Find all our project documentation, including sprint plans, task sheets, and mor
 We're always looking to improve! If you have any feedback or suggestions, please open an issue on our repository or contact one of our team members directly.
 
 Thank you for checking out our Movie Booking System!
+
 
