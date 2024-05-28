@@ -11,7 +11,7 @@ The architecture diagram provides a visual representation of the system's struct
 
 ## Component Diagram
 
-Our component diagrams illustrates the components of our system and how they interact with one another, ensuring modularity and ease of maintenance.
+ component diagrams illustrates the components of the system and how they interact with one another, ensuring modularity and ease of maintenance.
 
 ![Server Component Diagram](/images/server_component.png)
 
@@ -19,7 +19,7 @@ Our component diagrams illustrates the components of our system and how they int
 
 ## AWS Deployment Diagram
 
-We have deployed our application on AWS, utilizing services such as EC2, S3, and RDS to ensure scalability and reliability.
+Deployed  application on AWS, utilizing services such as EC2, S3, and RDS to ensure scalability and reliability.
 
 ![AWS Deployment Diagram](/images/AWSDeploymentDiag.png)
 
@@ -38,20 +38,6 @@ We have deployed our application on AWS, utilizing services such as EC2, S3, and
 - **Analytics Dashboard:** For theater employees to track occupancy and movie popularity.
 - **Cloud Deployment:** Robust deployment on AWS for optimal performance and uptime.
 
-## Team Contributions
-
-Below is a summary of our team's contributions to the project:
-
-| Backlog Item                               | Task                                                 | Task Owner                       |
-| ------------------------------------------ | ---------------------------------------------------- | -------------------------------- |
-| Design Phase and Discussions               | Brainstorm about Technologies                        | Anudeep, Komal, Vishnu, Kaushikq |
-| API Development for General User Functions | Develop API for viewing movie schedules              | Anudeep                          |
-| API Development for Membership Options     | Implement API for viewing membership options         | Vishnu                           |
-| API Development for Movie Ticket Booking   | Create API for booking movie tickets                 | Anudeep                          |
-| UI Development for Web Platform            | Design the user interface for various pages          | Kaushikq, Komal                  |
-| Role-Based Access Control                  | Implement access control for various user roles      | Vishnu                           |
-| Analytics Dashboard Development            | Develop an analytics dashboard for theater occupancy | Kaushikq                         |
-| Cloud Deployment and Database Integration  | Set up the API and database on AWS EC2 cluster       | Komal                            |
 
 ## BurnDown Chart
 
@@ -71,20 +57,13 @@ For detailed instructions, refer to the documentation provided within each direc
 
 ## Documentation
 
-Find all our project documentation, including sprint plans, task sheets, and more in the [documentation folder](/documentation/).
+Find all  project documentation,and more in the [documentation folder](/documentation/).
 
 ## Links
+1. [Project Journal](/documentation/CMPE202-AGWIZ-JOURNAL.pdf)
+2. [Project Board](/documentation/project_board/)
+3. [UI Wireframes](/documentation/AGILEWIZARDS-WIREFRAMES.pdf)
 
-1. [Github Repository](https://github.com/gopinathsjsu/teamproject-agile-wizards)
-2. [Project Journal](/documentation/CMPE202-AGWIZ-JOURNAL.pdf)
-3. [Sprint Task Sheet](/documentation/Agile%20Wizards%20Sprint%20Sheet.xlsx)
-4. [Project Board](/documentation/project_board/)
-5. [UI Wireframes](/documentation/AGILEWIZARDS-WIREFRAMES.pdf)
 
-## Feedback
-
-We're always looking to improve! If you have any feedback or suggestions, please open an issue on our repository or contact one of our team members directly.
-
-Thank you for checking out our Movie Booking System!
 
 
