@@ -1,15 +1,7 @@
 
 =======
-# Movie Booking System - Team Agile Wizards
+# Movie Booking System 
 
-Welcome to the Movie Booking System developed by Team Agile Wizards. Our system offers a seamless experience for users to browse currently showing movies, upcoming movies, book tickets, and much more!
-
-## Team Members
-
-- Vishnu Vardhan Reddy: 016816176
-- Anudeep Goud Kotagiri: 017407377
-- Komal Venugopal Vattumilli: 016860532
-- Kaushikq Ravindran: 017426955
 
 ## Architecture Diagram
 
